@@ -15,6 +15,8 @@ b.  **[VLSP]** The VLSP -- the Very Lightweight Network & Service platform:
 c. **[VLSP clients]**  The VLSP clients:  https://gitlab.com/sclayman/vlsp-client
 
 
+You can get more info on VLSP here: https://github.com/stuartclayman/VLSP-Doc
+
 ### Setup
 
 The setup has 4 terminals
